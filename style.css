@@ -1,5 +1,6 @@
 body {
     background: rgb(214, 213, 213);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .flip-card {
     background-color: transparent;
@@ -70,6 +71,4 @@ body {
   .sticky + .content {
     padding-top: 60px;
   }
-  
-  
   
