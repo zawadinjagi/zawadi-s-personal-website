@@ -1,5 +1,5 @@
 body {
-    background: grey;
+    background: rgb(214, 213, 213);
   }
   .flip-card {
     background-color: transparent;
@@ -39,8 +39,8 @@ body {
   }
   
   .flip-card-back {
-    background-color: dodgerblue;
-    color: white;
+    background-color: rgb(219, 189, 219);
+    color: black;
     transform: rotateY(180deg);
   }
   
