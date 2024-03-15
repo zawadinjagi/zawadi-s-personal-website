@@ -44,3 +44,8 @@ body {
     transform: rotateY(180deg);
   }
   
+  #navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
