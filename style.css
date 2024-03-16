@@ -62,7 +62,7 @@ body {
     z-index: 1;
     top: 0;
     overflow: hidden;
-    background-color: rgb(240, 203, 189);
+    background-color: rgb(54, 52, 51);
      }
 
   #navbar a {
@@ -73,23 +73,7 @@ body {
     padding: 14px;
     text-decoration: none;
   }
-  #navbar a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  #navbar a.active {
-    background-color: #d8aa93;
-    color: white;
-  }
-  #navbar a.Bio {
-    background-color: #fea787;
-    color: white;
-  }
-  #navbar a.Contact-info {
-    background-color: #d39b89;
-    color: white;
-  }
+
   .content {
     padding: 16px;
   }
